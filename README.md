@@ -1,7 +1,3 @@
-# job-specific-resume-builder
-
-This repository contains various tools and utilities:
-
 ## Stock Sentiment Analyzer
 
 A Reddit-based stock sentiment analysis agent that helps identify trending stocks based on discussions in popular investment subreddits.
